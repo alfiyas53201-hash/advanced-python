@@ -1,2 +1,2 @@
 # advanced-python
-practice one month internship
+one-month internship in technopark
